@@ -7,7 +7,6 @@
 
 ![Lua](https://img.shields.io/badge/LUA-blue?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
 
 ## Sobre mim
