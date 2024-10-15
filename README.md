@@ -32,10 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/peSuperSam/peSuperSam/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Social Media</h2>
 
 ###
