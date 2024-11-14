@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Olá, me chamo Mateus. Tenho especialização em programação e em redes, e estou sempre em busca de aprimorar minhas habilidades. As linguagens que mais utilizo são Python, LUA e HTML, que me permitem desenvolver projetos variados e enfrentar novos desafios. Estou entusiasmado com as possibilidades que a tecnologia oferece e busco constantemente crescer na área.</p>
+<h2 align="center">Olá, me chamo Mateus. Tenho especialização em programação e em redes, e estou sempre em busca de aprimorar minhas habilidades. As linguagens que mais utilizo são Python, LUA e HTML, que me permitem desenvolver projetos variados e enfrentar novos desafios. Estou entusiasmado com as possibilidades que a tecnologia oferece e busco constantemente crescer na área.</h2>
 
 ###
 
@@ -20,6 +20,12 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
 ###
