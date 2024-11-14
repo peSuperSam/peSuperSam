@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Olá, me chamo Mateus. Tenho especialização em programação e em redes, e estou sempre em busca de aprimorar minhas habilidades. As linguagens que mais utilizo são Python, LUA e HTML, que me permitem desenvolver projetos variados e enfrentar novos desafios. Estou entusiasmado com as possibilidades que a tecnologia oferece e busco constantemente crescer na área.</h2>
+<h2 align="center">Olá! Sou Mateus, desenvolvedor com especialização em programação e redes, sempre focado em aprimorar minhas habilidades. As linguagens que mais utilizo incluem Dart (Flutter), Python, JavaScript e HTML, com as quais desenvolvo projetos diversos e supero novos desafios. Sou entusiasmado pelas possibilidades que a tecnologia oferece e busco constantemente evoluir e contribuir na área.</h2>
 
 ###
 
