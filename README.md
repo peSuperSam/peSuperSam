@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Olá! Me chamo Mateus, desenvolvedor mobile/front-end, sempre focado em aprimorar minhas habilidades. As linguagens que mais utilizo incluem LUA, Dart (Flutter), Python, JavaScript e HTML, com as quais desenvolvo projetos diversos e supero novos desafios. Sou entusiasmado pelas possibilidades que a tecnologia oferece e busco constantemente evoluir e contribuir na área.</h2>
+<h2 align="center">Olá! Me chamo Mateus, desenvolvedor mobile/front-end, sempre focado em aprimorar minhas habilidades. As linguagens que mais utilizo incluem LUA, JavaScript, Python, Node.Js e Flutter (Dart), com as quais desenvolvo projetos diversos e supero novos desafios. Sou entusiasmado pelas possibilidades que a tecnologia oferece e busco constantemente evoluir e contribuir na área.</h2>
 
 ###
 
