@@ -1,46 +1,44 @@
-<h2 align="left">About Me</h2>
+<p align="center">
+  <img src="https://i.postimg.cc/yx1nzJKy/logo.png?type=slice&color=auto&height=100&section=header&text=Mateus&fontSize=70&animation=fadeIn" alt="Banner" />
+</p>
 
-###
+<p align="center">
+  <strong>Full Stack Developer | Licenciatura em Computação @ UPE</strong>
+</p>
 
-<h2 align="center">Olá! Me chamo Mateus, desenvolvedor Full Stack, sempre focado em aprimorar minhas habilidades. As linguagens que mais utilizo incluem LUA, JavaScript, Python, Node.Js e Dart (Flutter), com as quais desenvolvo projetos diversos e supero novos desafios. Sou entusiasmado pelas possibilidades que a tecnologia oferece e busco constantemente evoluir e contribuir na área.</h2>
+---
 
-###
+### 🇧🇷 Sobre Mim / 🇺🇸 About Me
 
-<h2 align="left">Techs</h2>
+**PT:** Desenvolvedor focado em soluções Full Stack e estudante de Licenciatura em Computação na UPE Garanhuns. Atualmente lidero a [Olympus Corporation](https://github.com/Olympus-Corporation), desenvolvendo o ecossistema **CodePlay** e sistemas avançados para **FiveM (Lua)**.
 
-###
+**EN:** Full Stack Developer and Computer Science Education student at UPE. Currently leading [Olympus Corporation](https://github.com/Olympus-Corporation), developing the **CodePlay** ecosystem and advanced systems for **FiveM (Lua)**.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peSuperSam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peSuperSam&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peSuperSam&radius=16&theme=high-contrast&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20/%20Contribution%20Chart" height="300" alt="activity-graph graph"  />
-</div>
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,py,js,dart,flutter,vue,vite,nodejs" height="40" alt="techs" />
+</p>
 
-###
+**Infrastructure & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,postgresql,linux,docker,git" height="40" alt="infra" />
+</p>
 
-<h2 align="center">Social Media</h2>
+---
 
-###
-
-<div align="center">
-  <a href="https://www.twitch.tv/pesupersam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+### 📫 Contact
+<p align="center">
+  <a href="mailto:contatomateusant@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contatomateusant@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.youtube.com/@SuperSampe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
+
+<p align="center">
+  © 2026 Olympus Corporation
+</p>
