@@ -10,9 +10,9 @@
 
 ### 🇧🇷 Sobre Mim / 🇺🇸 About Me
 
-**PT:** Desenvolvedor focado em soluções Full Stack e estudante de Licenciatura em Computação na UPE Garanhuns. Atualmente lidero a [Olympus Corporation](https://github.com/Olympus-Corporation), desenvolvendo o ecossistema **CodePlay** e sistemas avançados para **FiveM (Lua)**.
+**PT:** Desenvolvedor focado em soluções Full Stack e estudante de Licenciatura em Computação na UPE Garanhuns. Atualmente lidero a [Olympus Group](https://github.com/Olympus-Corporation), desenvolvendo o ecossistema **CodePlay** e sistemas avançados para **FiveM (Lua)**.
 
-**EN:** Full Stack Developer and Computer Science Education student at UPE. Currently leading [Olympus Corporation](https://github.com/Olympus-Corporation), developing the **CodePlay** ecosystem and advanced systems for **FiveM (Lua)**.
+**EN:** Full Stack Developer and Computer Science Education student at UPE. Currently leading [Olympus Group](https://github.com/Olympus-Corporation), developing the **CodePlay** ecosystem and advanced systems for **FiveM (Lua)**.
 
 ---
 
@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  © 2026 Olympus Corporation
+  © 2026 Olympus Group
 </p>
