@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.postimg.cc/yx1nzJKy/logo.png?type=slice&color=auto&height=100&section=header&text=Mateus&fontSize=70&animation=fadeIn" alt="Banner" />
-</p>
-
-<p align="center">
   <strong>Full Stack Developer | Licenciatura em Computação @ UPE</strong>
 </p>
 
